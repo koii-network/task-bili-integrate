@@ -13,3 +13,4 @@ config/*
 .env
 taskStateInfoKeypair.json
 localKOIIDB.db
+puppeteer_cache_bilibili
